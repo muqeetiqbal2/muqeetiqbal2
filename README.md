@@ -23,7 +23,6 @@ As a self-taught web developer, I am driven by my passion for crafting visually 
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 </p>
 
-
 ## 💻 Projects
 
 I have worked on a number of projects both individually and as part of a team. Some of my notable projects include:
@@ -52,11 +51,9 @@ I offer web development services that cater to your specific business needs. As 
 
 If you're interested in working with me, please don't hesitate to contact me via email at muqeetiqbal01@gmail.com or connect with me on LinkedIn [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
 
-
 ## 📈 GitHub Stats
 
 [![Muqeeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqeetiqbal2&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/muqeetiqbal2)
-
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" width="30"> GitHub Trophies
 
@@ -70,11 +67,9 @@ These are the trophies I've earned on GitHub so far. They are awarded for variou
 
 This is the number of visitors to my profile README.md file.
 
-
 ## 🙏 Acknowledgements
 
 I would like to extend my gratitude to Saqib Iqbal and Numan Javed. Their guidance and support have been invaluable in helping me to achieve my goals.
-
 
 ## 📫 Get In Touch
 - <img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png"/> LinkedIn: [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a)
