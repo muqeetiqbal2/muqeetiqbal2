@@ -39,7 +39,7 @@ As a self-taught web developer, I am driven by my passion for crafting visually 
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
 </p>
 
-# 💻 Projects
+## 💻 Projects
 
 I have worked on a number of projects both individually and as part of a team. Some of my notable projects include:
 - 📝 To-do-list in Node.js
@@ -49,6 +49,11 @@ I have worked on a number of projects both individually and as part of a team. S
 
 And many more small projects. I am always looking for new opportunities to work on interesting projects and challenge myself.
 
+## 💼 Work Experience
+
+I am a seasoned Web Developer with 3 years of experience in the field. Throughout my career, I have worked on a diverse range of projects that have allowed me to gain hands-on experience in web development and software engineering.
+
+My primary focus is on delivering high-quality software that not only meets but exceeds my clients' expectations. I am driven by a passion for crafting visually stunning and user-friendly websites and applications that are optimized for various devices. 💻
 
 
 ## 💼 Work with Me
