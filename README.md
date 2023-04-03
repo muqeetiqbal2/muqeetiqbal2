@@ -1,7 +1,7 @@
 # Muqeeti Profile
 
 
-##Hey there, I'm Muqeet! 👋
+## Hey there, I'm Muqeet! 👋
 
 As a self-taught web developer, I am driven by my passion for crafting visually stunning and user-friendly websites and web applications that are optimized for various devices. My aspiration is to become a proficient full-stack developer, and to make significant contributions to open source projects.
 
