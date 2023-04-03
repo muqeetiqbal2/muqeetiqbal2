@@ -30,7 +30,7 @@ If you're interested in working with me, please don't hesitate to contact me via
 
 ## 📈 GitHub Stats
 
-Check out Muqeet's GitHub stats [insert GitHub profile link].
+[![Muqeeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqeetiqbal2&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/muqeetiqbal2)
 
 ## 📫 Get In Touch
 - <img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png"/> LinkedIn: [insert LinkedIn profile link]
