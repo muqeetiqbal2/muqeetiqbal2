@@ -47,6 +47,11 @@ I offer web development services that cater to your specific business needs. As 
 
 If you're interested in working with me, please don't hesitate to contact me via email at [insert email address] or connect with me on LinkedIn [insert LinkedIn profile link]. I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
 
+# 🙏 Acknowledgements
+
+I would like to extend my gratitude to Saqib Iqbal and Numan Javed. Their guidance and support have been invaluable in helping me to achieve my goals.
+
+
 ## 📈 GitHub Stats
 
 [![Muqeeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqeetiqbal2&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/muqeetiqbal2)
