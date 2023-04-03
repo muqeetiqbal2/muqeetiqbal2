@@ -55,6 +55,11 @@ I am a seasoned Web Developer with 3 years of experience in the field. Throughou
 
 My primary focus is on delivering high-quality software that not only meets but exceeds my clients' expectations. I am driven by a passion for crafting visually stunning and user-friendly websites and applications that are optimized for various devices. 💻
 
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" width="30"> Top Languages
+
+[![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muqeetiqbal2&layout=compact&theme=radical)](https://github.com/muqeetiqbal2)
+
+This chart shows the top programming languages I've used on GitHub, based on the number of lines of code. Click on the chart to see more details.
 
 ## 💼 Work with Me
 
@@ -62,14 +67,29 @@ I offer web development services that cater to your specific business needs. As 
 
 If you're interested in working with me, please don't hesitate to contact me via email at [insert email address] or connect with me on LinkedIn [insert LinkedIn profile link]. I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
 
-## 🙏 Acknowledgements
-
-I would like to extend my gratitude to Saqib Iqbal and Numan Javed. Their guidance and support have been invaluable in helping me to achieve my goals.
-
 
 ## 📈 GitHub Stats
 
 [![Muqeeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqeetiqbal2&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/muqeetiqbal2)
+
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" width="30"> GitHub Trophies
+
+[![Your Name's Trophies](https://github-profile-trophy.vercel.app/?username=muqeetiqbal2&theme=radical)](https://github.com/muqeetiqbal2)
+
+These are the trophies I've earned on GitHub so far. They are awarded for various achievements such as contributing to open source projects or creating your own repositories. Click on the trophies to see more details.
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f441.png" width="30"> Profile Views
+
+![](https://komarev.com/ghpvc/?username=yourusername&color=green)
+
+This is the number of visitors to my profile README.md file.
+
+
+## 🙏 Acknowledgements
+
+I would like to extend my gratitude to Saqib Iqbal and Numan Javed. Their guidance and support have been invaluable in helping me to achieve my goals.
+
 
 ## 📫 Get In Touch
 - <img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png"/> LinkedIn: [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a)
