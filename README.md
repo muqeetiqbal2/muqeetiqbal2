@@ -73,7 +73,7 @@ I would like to extend my gratitude to Saqib Iqbal and Numan Javed. Their guidan
 
 ## 📫 Get In Touch
 - <img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png"/> LinkedIn: [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a)
-- <img src="https://img.icons8.com/ios-filled/30/0077b5/email.png"/> Email: [muqeetiqbal01@gmail.com]
+- <img src="https://img.icons8.com/ios-filled/30/0077b5/email.png"/> Email: muqeetiqbal01@gmail.com
 - <img src="https://img.icons8.com/ios-filled/30/0077b5/github.png"/> GitHub: [github.com/muqeetiqbal2](https://github.com/muqeetiqbal2)
 - <img src="https://img.icons8.com/ios-filled/30/0077b5/twitter.png"/> Twitter: [insert Twitter profile link]
 - <img src="https://img.icons8.com/ios-filled/30/0077b5/facebook.png"/> Facebook: [insert Facebook profile link]
