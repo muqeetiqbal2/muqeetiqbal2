@@ -52,9 +52,9 @@ If you're interested in working with me, please don't hesitate to contact me via
 [![Muqeeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqeetiqbal2&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/muqeetiqbal2)
 
 ## 📫 Get In Touch
-- <img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png"/> LinkedIn: [insert LinkedIn profile link]
-- <img src="https://img.icons8.com/ios-filled/30/0077b5/email.png"/> Email: [insert email address]
-- <img src="https://img.icons8.com/ios-filled/30/0077b5/github.png"/> GitHub: [insert GitHub profile link]
+- <img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png"/> LinkedIn: [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a)
+- <img src="https://img.icons8.com/ios-filled/30/0077b5/email.png"/> Email: [muqeetiqbal01@gmail.com]
+- <img src="https://img.icons8.com/ios-filled/30/0077b5/github.png"/> GitHub: [github.com/muqeetiqbal2](https://github.com/muqeetiqbal2)
 - <img src="https://img.icons8.com/ios-filled/30/0077b5/twitter.png"/> Twitter: [insert Twitter profile link]
 - <img src="https://img.icons8.com/ios-filled/30/0077b5/facebook.png"/> Facebook: [insert Facebook profile link]
 
