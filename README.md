@@ -39,6 +39,16 @@ As a self-taught web developer, I am driven by my passion for crafting visually 
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
 </p>
 
+# 💻 Projects
+
+I have worked on a number of projects both individually and as part of a team. Some of my notable projects include:
+- 📝 To-do-list in Node.js
+- 📱 Facebook clone in React
+- 📅 Meetup-planner-app in Django
+- 🤖 Cat-bot in Node.js using OpenAI APIs
+
+And many more small projects. I am always looking for new opportunities to work on interesting projects and challenge myself.
+
 
 
 ## 💼 Work with Me
