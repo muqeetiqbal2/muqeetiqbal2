@@ -1,26 +1,44 @@
 # Muqeeti Profile
 
-
 ## Hey there, I'm Muqeet! 👋
 
 As a self-taught web developer, I am driven by my passion for crafting visually stunning and user-friendly websites and web applications that are optimized for various devices. My aspiration is to become a proficient full-stack developer, and to make significant contributions to open source projects.
 
-## 💻 Technologies & Tools
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
-![CSS](https://img.icons8.com/color/48/000000/css3.png) 
-![SASS](https://img.icons8.com/color/48/000000/sass.png) 
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
-![Django](https://img.icons8.com/color/48/000000/django.png) 
-![PHP](https://img.icons8.com/color/48/000000/php.png) 
-![SQL](https://img.icons8.com/color/48/000000/sql.png) 
-![React](https://img.icons8.com/color/48/000000/react-native.png) 
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) 
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) 
-![Oracle](https://img.icons8.com/color/48/000000/oracle.png) 
-![Git](https://img.icons8.com/color/48/000000/git.png) 
-![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) 
-![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+## 💻 Technologies & Tools used by Muqeet
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/sass.png"/> SASS
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/django.png"/> Django
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/php.png"/> PHP
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> MySQL
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/oracle.png"/> Oracle
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/git.png"/> Git
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VS Code
+  &emsp;
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
+</p>
+
 
 
 ## 💼 Work with Me
