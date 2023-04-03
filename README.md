@@ -65,7 +65,7 @@ This chart shows the top programming languages I've used on GitHub, based on the
 
 I offer web development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensure that your project is executed efficiently and effectively.
 
-If you're interested in working with me, please don't hesitate to contact me via email at [insert email address] or connect with me on LinkedIn [insert LinkedIn profile link]. I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
+If you're interested in working with me, please don't hesitate to contact me via email at muqeetiqbal01@gmail.com or connect with me on LinkedIn [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
 
 
 ## 📈 GitHub Stats
