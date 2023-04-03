@@ -6,38 +6,23 @@ As a self-taught web developer, I am driven by my passion for crafting visually 
 
 ## 💻 Technologies & Tools used by Muqeet
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/sass.png"/> SASS
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/django.png"/> Django
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/php.png"/> PHP
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> 
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> 
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> 
+  <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js"/> 
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb"/> 
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/> 
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code"/> 
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/> React
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.js
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> MySQL
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/oracle.png"/> Oracle
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/git.png"/> Git
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> VS Code
-  &emsp;
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap
-</p>
 
 ## 💻 Projects
 
