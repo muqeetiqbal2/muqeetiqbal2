@@ -78,8 +78,17 @@ This is the number of visitors to my profile README.md file.
 
 I would like to extend my gratitude to Saqib Iqbal and Numan Javed. Their guidance and support have been invaluable in helping me to achieve my goals.
 
-## 📫 Get In Touch With Muqeeti
-- <img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png"/> LinkedIn: [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a)
-- <img src="https://img.icons8.com/ios-filled/30/0077b5/email.png"/> Email: muqeetiqbal01@gmail.com
-- <img src="https://img.icons8.com/ios-filled/30/0077b5/github.png"/> GitHub: [github.com/muqeetiqbal2](https://github.com/muqeetiqbal2)
 
+## 📫 Get In Touch With Muqeeti
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://www.linkedin.com/in/muqeet-iqbal-aa62b724a/" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn icon">
+  </a>
+  <a href="mailto:muqeetiqbal01@gmail.com" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/0077b5/email.png" alt="Email icon">
+  </a>
+  <a href="https://github.com/muqeetiqbal2" style="margin: 10px;">
+    <img src="https://img.icons8.com/ios-filled/50/0077b5/github.png" alt="GitHub icon">
+  </a>
+</div>
