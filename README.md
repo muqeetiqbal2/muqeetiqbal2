@@ -27,7 +27,8 @@
   <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb"/> 
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/> 
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/-pgAdmin-336791?style=flat-square&logo=pgAdmin&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code"/> 
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 </p>
