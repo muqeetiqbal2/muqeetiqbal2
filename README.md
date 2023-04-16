@@ -1,10 +1,17 @@
 # Muqeeti's Profile
 
-## Hey there, I'm Muqeet! 👋
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="flex: 1;">
+    <h2>Hey there, It's Me Muqeeti! 👋</h2>
+    <p>As a self-taught web developer, I am driven by my passion for crafting visually stunning and user-friendly websites and web applications that are optimized for various devices. My aspiration is to become a proficient full-stack developer, and to make significant contributions to open source projects.</p>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Professional developer GIF">
+  </div>
+</div>
 
-As a self-taught web developer, I am driven by my passion for crafting visually stunning and user-friendly websites and web applications that are optimized for various devices. My aspiration is to become a proficient full-stack developer, and to make significant contributions to open source projects.
 
-## 💻 Technologies & Tools used by Muqeet
+## 💻 Technologies & Tools Used By Muqeeti
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> 
@@ -23,7 +30,7 @@ As a self-taught web developer, I am driven by my passion for crafting visually 
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 </p>
 
-## 💻 Projects
+## 💻 Muqeeti's Projects
 
 I have worked on a number of projects both individually and as part of a team. Some of my notable projects include:
 - 📝 To-do-list in Node.js
@@ -33,7 +40,7 @@ I have worked on a number of projects both individually and as part of a team. S
 
 And many more small projects. I am always looking for new opportunities to work on interesting projects and challenge myself.
 
-## 💼 Work Experience
+## 💼 Muqeeti's Work Experience
 
 I am a seasoned Web Developer with 3 years of experience in the field. Throughout my career, I have worked on a diverse range of projects that have allowed me to gain hands-on experience in web development and software engineering.
 
@@ -45,13 +52,13 @@ My primary focus is on delivering high-quality software that not only meets but 
 
 This chart shows the top programming languages I've used on GitHub, based on the number of lines of code. Click on the chart to see more details.
 
-## 💼 Work with Me
+## 💼 Work With Muqeeti
 
 I offer web development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensure that your project is executed efficiently and effectively.
 
 If you're interested in working with me, please don't hesitate to contact me via email at muqeetiqbal01@gmail.com or connect with me on LinkedIn [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
 
-## 📈 GitHub Stats
+## 📈 Muqeeti's GitHub Stats
 
 [![Muqeeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqeetiqbal2&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/muqeetiqbal2)
 
@@ -71,7 +78,7 @@ This is the number of visitors to my profile README.md file.
 
 I would like to extend my gratitude to Saqib Iqbal and Numan Javed. Their guidance and support have been invaluable in helping me to achieve my goals.
 
-## 📫 Get In Touch
+## 📫 Get In Touch With Muqeeti
 - <img src="https://img.icons8.com/ios-filled/30/0077b5/linkedin.png"/> LinkedIn: [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a)
 - <img src="https://img.icons8.com/ios-filled/30/0077b5/email.png"/> Email: muqeetiqbal01@gmail.com
 - <img src="https://img.icons8.com/ios-filled/30/0077b5/github.png"/> GitHub: [github.com/muqeetiqbal2](https://github.com/muqeetiqbal2)
