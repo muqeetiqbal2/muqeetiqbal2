@@ -6,9 +6,11 @@
     <p>As a self-taught web developer, I am driven by my passion for crafting visually stunning and user-friendly websites and web applications that are optimized for various devices. My aspiration is to become a proficient full-stack developer, and to make significant contributions to open source projects.</p>
   </div>
   <div style="flex: 1;">
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Professional developer GIF">
+    <img alt="Professional developer GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" data-target="animated-image.originalImage">
   </div>
 </div>
+
+
 
 
 ## 💻 Technologies & Tools Used By Muqeeti
