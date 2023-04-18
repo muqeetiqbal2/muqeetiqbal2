@@ -14,24 +14,24 @@
 
 ## 💻 Technologies & Tools Used By Muqeeti
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/> 
-  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/> 
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/> 
-  <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js"/> 
-  <img src="https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb"/> 
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-pgAdmin-336791?style=flat-square&logo=pgAdmin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-XAMPP-F37623?style=flat-square&logo=xampp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-phpMyAdmin-4479A1?style=flat-square&logo=php&logoColor=white"/
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code"/> 
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> 
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/> 
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react"/> 
+  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=Node.js"/> 
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb"/> 
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/-pgAdmin-336791?style=for-the-badge&logo=pgAdmin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-phpMyAdmin-4479A1?style=for-the-badge&logo=php&logoColor=white"/
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/> 
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
 </p>
 
 ## 💻 Muqeeti's Projects
