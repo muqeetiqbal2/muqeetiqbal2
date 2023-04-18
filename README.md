@@ -1,4 +1,4 @@
-# <p align="left"> <img src="https://img.icons8.com/ios/100/000000/developer.png"/> Muqeeti's Profile</p>
+# <p align="left" style="justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/code.png"/> Muqeeti's Profile</p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1;">
