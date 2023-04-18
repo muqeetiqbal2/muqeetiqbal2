@@ -80,7 +80,7 @@ If you're interested in working with me, please don't hesitate to contact me via
 
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e2.png" width="30"> GitHub Contributions
-![Your Name's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=muqeetiqbal2&theme=radical)
+![Your Name's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=muqeetiqbal2&theme=dracula)
 
 This is a visual representation of my GitHub contributions over the past year, showing the number of commits, pull requests, issues, and more.
 
@@ -97,7 +97,7 @@ These are the trophies I've earned on GitHub so far. They are awarded for variou
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f441.png" width="30"> Profile Views
 
-![](https://komarev.com/ghpvc/?username=yourusername&color=green)
+![](https://komarev.com/ghpvc/?username=muqeetiqbal2&color=green)
 
 This is the number of visitors to my profile README.md file.
 
