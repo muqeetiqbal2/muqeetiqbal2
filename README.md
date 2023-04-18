@@ -41,6 +41,7 @@ I have worked on a number of projects both individually and as part of a team. S
 - 📱 Facebook clone in React
 - 📅 Meetup-planner-app in Django
 - 🤖 Cat-bot in Node.js using OpenAI APIs
+- 📊 Employee Management App with CRUD operations using Django
 
 And many more small projects. I am always looking for new opportunities to work on interesting projects and challenge myself.
 
