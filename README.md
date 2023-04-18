@@ -3,7 +3,8 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1;">
     <h2>Hey there, It's Me Muqeeti! 👋</h2>
-    <p>As a self-taught web developer, I am driven by my passion for crafting visually stunning and user-friendly websites and web applications that are optimized for various devices. My aspiration is to become a proficient full-stack developer, and to make significant contributions to open source projects.</p>
+    <p>As a web developer and a software engineering student at CUST, I have extensive experience with Django and React. My passion lies in building dynamic and responsive web applications that offer seamless user experiences. I have a strong command of various programming languages, including JavaScript, HTML, and CSS. Additionally, I am proficient in utilizing various frameworks, such as React and Node.js, to develop scalable applications. My commitment to staying up-to-date with emerging technologies helps me continuously enhance my skills and create innovative solutions. In my free time, I enjoy attending hackathons, contributing to open-source projects, and working on personal coding projects to challenge myself.</p>
+    
   </div>
   <div style="flex: 1;">
     <img alt="Professional developer GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" data-target="animated-image.originalImage">
