@@ -12,8 +12,6 @@
 </div>
 
 
-
-
 ## 💻 Technologies & Tools Used By Muqeeti
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> 
@@ -46,6 +44,21 @@ I have worked on a number of projects both individually and as part of a team. S
 
 And many more small projects. I am always looking for new opportunities to work on interesting projects and challenge myself.
 
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png" width="30"> GitHub Project Cards
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=muqeetiqbal2&repo=meetup-planner-using-django&theme=radical)]([https://github.com/muqeetiqbal2/meetup-planner-using-django])
+
+This is a web application that enables users to organize and participate in meetups in specific locations. With Meetup-Planner-Using-Django, you can easily create meetups, set the location, and allow participants to register via email.
+
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=muqeetiqbal2&repo=Chatbot-with-Node.js-and-OpenAI-APIs&theme=radical)]([https://github.com/muqeetiqbal2/Chatbot-with-Node.js-and-OpenAI-APIs])
+
+This is a chatbot project built with Node.js and integrated with OpenAI APIs. The chatbot is designed to provide conversational assistance to users on a variety of topics.
+
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=muqeetiqbal2&repo=employee_project&theme=radical)]([https://github.com/muqeetiqbal2/employee_project])
+
+This is a web application built using Django that allows users to perform CRUD operations on employee records. Users can easily create, read, update, and delete employee records with this application.
+
 ## 💼 Muqeeti's Work Experience
 
 I am a seasoned Web Developer with 3 years of experience in the field. Throughout my career, I have worked on a diverse range of projects that have allowed me to gain hands-on experience in web development and software engineering.
@@ -63,6 +76,13 @@ This chart shows the top programming languages I've used on GitHub, based on the
 I offer web development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensure that your project is executed efficiently and effectively.
 
 If you're interested in working with me, please don't hesitate to contact me via email at muqeetiqbal01@gmail.com or connect with me on LinkedIn [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
+
+
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e2.png" width="30"> GitHub Contributions
+![Your Name's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=muqeetiqbal2&theme=radical)
+
+This is a visual representation of my GitHub contributions over the past year, showing the number of commits, pull requests, issues, and more.
+
 
 ## 📈 Muqeeti's GitHub Stats
 
@@ -85,12 +105,6 @@ This is the number of visitors to my profile README.md file.
 ![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muqeetiqbal2&theme=radical)
 
 This is my GitHub contribution streak, showing the number of consecutive days I've made at least one commit.
-
-
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e2.png" width="30"> GitHub Contributions
-![Your Name's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=muqeetiqbal2&theme=radical)
-
-This is a visual representation of my GitHub contributions over the past year, showing the number of commits, pull requests, issues, and more.
 
 
 
