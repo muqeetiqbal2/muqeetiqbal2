@@ -108,12 +108,6 @@ This is the number of visitors to my profile README.md file.
 This is my GitHub contribution streak, showing the number of consecutive days I've made at least one commit.
 
 
-
-## 🙏 Acknowledgements
-
-I would like to extend my gratitude to Saqib Iqbal and Numan Javed. Their guidance and support have been invaluable in helping me to achieve my goals.
-
-
 ## 📫 Get In Touch With Muqeeti
 
 <div style="display: flex; justify-content: center;">
