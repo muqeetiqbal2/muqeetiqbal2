@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=Node.js"/> 
   <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb"/> 
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/-pgAdmin-336791?style=for-the-badge&logo=pgAdmin&logoColor=white"/>
   <img src="https://img.shields.io/badge/-XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
@@ -54,9 +53,29 @@ And many more small projects. I am always looking for new opportunities to work 
 
 ## 🌱 What I'm Currently Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="width: 15%;" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="width: 15%;" />
 </p>
+
+
+## 💼 Work Experience
+<ul>
+  <li>
+    <strong>SDNO (Sehat Diet & Nutrition Organization)</strong><br>
+    Position: Head of Technical Team<br>
+    Dates: July 2021 - Present
+  </li>
+  <li>
+    <strong>Bytewise</strong><br>
+    Position: Django Developer<br>
+    Dates: March 2023 - July 2023
+  </li>
+  <li>
+    <strong>Bytewise</strong><br>
+    Position: MERN Stack Developer<br>
+    Dates: Aug 2022 - Nov 2022
+  </li>
+</ul>
 
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png" width="30"> GitHub Project Cards
