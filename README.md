@@ -1,21 +1,61 @@
-<p align="left" style="justify-content: center;">
-  <img src="https://img.icons8.com/color/48/000000/code.png"/>
-  Muqeeti's Profile
-</p>
-
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1;">
-    <h2>Hey there, It's Me Muqeeti! 👋</h2>
-    <div>
-      <img alt="Web Development Image" src="https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966"/>
-    </div>
+   <h1 align="left" style="justify-content: center; display: flex; align-items: center;">
+      <img src="https://img.icons8.com/color/48/000000/code.png"/>
+      <strong>Muqeeti's Profile</strong>
+    </h1>
+    
+```
+████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
+████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
+▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
+█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
+▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
+██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
+████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
+██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
+████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
+████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
+█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
+█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
+▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+```
+ <h2>It's Me Muqeeti! 👋</h2>
     <div>
       <p>As a web developer and a software engineering student at CUST, I have extensive experience with Django and React. My passion lies in building dynamic and responsive web applications that offer seamless user experiences. I have a strong command of various programming languages, including JavaScript, HTML, and CSS. Additionally, I am proficient in utilizing various frameworks, such as React and Node.js, to develop scalable applications. My commitment to staying up-to-date with emerging technologies helps me continuously enhance my skills and create innovative solutions. In my free time, I enjoy attending hackathons, contributing to open-source projects, and working on personal coding projects to challenge myself.</p>
     </div>
   </div>
-  <div style="flex: 2; width:100%;">
-    <img alt="Professional developer GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" data-target="animated-image.originalImage">
-  </div>
+  <div style="align:'center';">
+    
+```
+                                  +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+                                  @@       o o                                           @@
+                                  @@       | |                                           @@
+                                  @@      _L_L_                                          @@
+                                  @@   ❮\/__-__\/❯ Programming isn't about what you know @@
+                                  @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+                                  @@   ❮/ \`-'/ \❯                                       @@
+                                  @@     _/`U'\_                                         @@
+                                  @@    ( .   . )     .----------------------------.     @@
+                                  @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+                                  @@   \ |  ,  | /    '----------------------------'     @@
+                                  @@    \|=====|/                                        @@
+                                  @@     |_.^._|                                         @@
+                                  @@     | |"| |                                         @@
+                                  @@     ( ) ( )   Testing leads to failure              @@
+                                  @@     |_| |_|   and failure leads to understanding    @@
+                                  @@ _.-' _j L_ '-._                                     @@
+                                  @@(___.'     '.___)                                    @@
+                                  +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+</div>
 </div>
 
 
@@ -40,25 +80,17 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
 </p>
 
-## 💻 Muqeeti's Projects
 
-I have worked on a number of projects both individually and as part of a team. Some of my notable projects include:
-- 📝 To-do-list in Node.js
-- 📱 Facebook clone in React
-- 📅 Meetup-planner-app in Django
-- 🤖 Cat-bot in Node.js using OpenAI APIs
-- 📊 Employee Management App with CRUD operations using Django
-
-And many more small projects. I am always looking for new opportunities to work on interesting projects and challenge myself.
-
-## 🌱 What I'm Currently Learning
+## 🌱 What Muqeeti Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="width: 15%;" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="width: 15%;" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="width: 15%;" />
+  <img src="https://img.shields.io/badge/-Shell%20Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Scripting" style="width: 15%;" />
 </p>
 
 
-## 💼 Work Experience
+## 💼 Muqeeti's Professional Experience
 <ul>
   <li>
     <strong>SDNO (Sehat Diet & Nutrition Organization)</strong><br>
@@ -78,20 +110,6 @@ And many more small projects. I am always looking for new opportunities to work 
 </ul>
 
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png" width="30"> GitHub Project Cards
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=muqeetiqbal2&repo=meetup-planner-using-django&theme=radical)]([https://github.com/muqeetiqbal2/meetup-planner-using-django])
-
-This is a web application that enables users to organize and participate in meetups in specific locations. With Meetup-Planner-Using-Django, you can easily create meetups, set the location, and allow participants to register via email.
-
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=muqeetiqbal2&repo=Chatbot-with-Node.js-and-OpenAI-APIs&theme=radical)]([https://github.com/muqeetiqbal2/Chatbot-with-Node.js-and-OpenAI-APIs])
-
-This is a chatbot project built with Node.js and integrated with OpenAI APIs. The chatbot is designed to provide conversational assistance to users on a variety of topics.
-
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=muqeetiqbal2&repo=employee_project&theme=radical)]([https://github.com/muqeetiqbal2/employee_project])
-
-This is a web application built using Django that allows users to perform CRUD operations on employee records. Users can easily create, read, update, and delete employee records with this application.
-
 ## 💼 Muqeeti's Work Experience
 
 I am a seasoned Web Developer with 3 years of experience in the field. Throughout my career, I have worked on a diverse range of projects that have allowed me to gain hands-on experience in web development and software engineering.
@@ -104,12 +122,6 @@ My primary focus is on delivering high-quality software that not only meets but 
 
 This chart shows the top programming languages I've used on GitHub, based on the number of lines of code. Click on the chart to see more details.
 
-## 💼 Work With Muqeeti
-
-I offer web development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensure that your project is executed efficiently and effectively.
-
-If you're interested in working with me, please don't hesitate to contact me via email at muqeetiqbal01@gmail.com or connect with me on LinkedIn [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
-
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e2.png" width="30"> GitHub Contributions
 ![Your Name's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=muqeetiqbal2&theme=dracula)
@@ -121,11 +133,6 @@ This is a visual representation of my GitHub contributions over the past year, s
 
 [![Muqeeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqeetiqbal2&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/muqeetiqbal2)
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" width="30"> GitHub Trophies
-
-[![Your Name's Trophies](https://github-profile-trophy.vercel.app/?username=muqeetiqbal2&theme=radical)](https://github.com/muqeetiqbal2)
-
-These are the trophies I've earned on GitHub so far. They are awarded for various achievements such as contributing to open source projects or creating your own repositories. Click on the trophies to see more details.
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f441.png" width="30"> Profile Views
 
@@ -138,6 +145,20 @@ This is the number of visitors to my profile README.md file.
 ![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muqeetiqbal2&theme=radical)
 
 This is my GitHub contribution streak, showing the number of consecutive days I've made at least one commit.
+
+
+## ⚡ Muqeeti's Interests
+
+- Writing (Stories & poems)
+- Traveling
+- Cooking
+
+
+## 💼 Work With Muqeeti
+
+I offer web development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensure that your project is executed efficiently and effectively.
+
+If you're interested in working with me, please don't hesitate to contact me via email at muqeetiqbal01@gmail.com or connect with me on LinkedIn [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
 
 
 ## 📫 Get In Touch With Muqeeti
