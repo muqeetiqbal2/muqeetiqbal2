@@ -3,10 +3,14 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1;">
     <h2>Hey there, It's Me Muqeeti! 👋</h2>
+    <div>
+    <img alt="Web Development Image" src="https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966"/>
+      </div>
+    <div>
     <p>As a web developer and a software engineering student at CUST, I have extensive experience with Django and React. My passion lies in building dynamic and responsive web applications that offer seamless user experiences. I have a strong command of various programming languages, including JavaScript, HTML, and CSS. Additionally, I am proficient in utilizing various frameworks, such as React and Node.js, to develop scalable applications. My commitment to staying up-to-date with emerging technologies helps me continuously enhance my skills and create innovative solutions. In my free time, I enjoy attending hackathons, contributing to open-source projects, and working on personal coding projects to challenge myself.</p>
-    
+    </div>
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 2; width:100%;">
     <img alt="Professional developer GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" data-target="animated-image.originalImage">
   </div>
 </div>
