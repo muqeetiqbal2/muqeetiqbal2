@@ -1,13 +1,16 @@
-# <p align="left" style="justify-content: center;"> <img src="https://img.icons8.com/color/48/000000/code.png"/> Muqeeti's Profile</p>
+<p align="left" style="justify-content: center;">
+  <img src="https://img.icons8.com/color/48/000000/code.png"/>
+  Muqeeti's Profile
+</p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1;">
     <h2>Hey there, It's Me Muqeeti! 👋</h2>
     <div>
-    <img alt="Web Development Image" src="https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966"/>
-      </div>
+      <img alt="Web Development Image" src="https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966"/>
+    </div>
     <div>
-    <p>As a web developer and a software engineering student at CUST, I have extensive experience with Django and React. My passion lies in building dynamic and responsive web applications that offer seamless user experiences. I have a strong command of various programming languages, including JavaScript, HTML, and CSS. Additionally, I am proficient in utilizing various frameworks, such as React and Node.js, to develop scalable applications. My commitment to staying up-to-date with emerging technologies helps me continuously enhance my skills and create innovative solutions. In my free time, I enjoy attending hackathons, contributing to open-source projects, and working on personal coding projects to challenge myself.</p>
+      <p>As a web developer and a software engineering student at CUST, I have extensive experience with Django and React. My passion lies in building dynamic and responsive web applications that offer seamless user experiences. I have a strong command of various programming languages, including JavaScript, HTML, and CSS. Additionally, I am proficient in utilizing various frameworks, such as React and Node.js, to develop scalable applications. My commitment to staying up-to-date with emerging technologies helps me continuously enhance my skills and create innovative solutions. In my free time, I enjoy attending hackathons, contributing to open-source projects, and working on personal coding projects to challenge myself.</p>
     </div>
   </div>
   <div style="flex: 2; width:100%;">
@@ -48,6 +51,12 @@ I have worked on a number of projects both individually and as part of a team. S
 - 📊 Employee Management App with CRUD operations using Django
 
 And many more small projects. I am always looking for new opportunities to work on interesting projects and challenge myself.
+
+## 🌱 What I'm Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" />
+</p>
 
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png" width="30"> GitHub Project Cards
