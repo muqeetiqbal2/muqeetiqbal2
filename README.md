@@ -18,7 +18,7 @@
 </div>
 
 
-## 💻 Technologies & Tools Used By Muqeeti
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Technologies & Tools Used By Muqeeti
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/> 
