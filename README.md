@@ -83,38 +83,40 @@
 
 ## 🌱 What Muqeeti Currently Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="width: 15%;" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="width: 15%;" />
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" style="width: 15%;" />
-  <img src="https://img.shields.io/badge/-Shell%20Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Scripting" style="width: 15%;" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 
-## 💼 Muqeeti's Professional Experience
-<ul>
-  <li>
-    <strong>SDNO (Sehat Diet & Nutrition Organization)</strong><br>
-    Position: Head of Technical Team<br>
-    Dates: July 2021 - Present
-  </li>
-  <li>
-    <strong>Bytewise</strong><br>
-    Position: Django Developer<br>
-    Dates: March 2023 - July 2023
-  </li>
-  <li>
-    <strong>Bytewise</strong><br>
-    Position: MERN Stack Developer<br>
-    Dates: Aug 2022 - Nov 2022
-  </li>
+## 💼 Work and Professional Experience
+
+I am a seasoned Web Developer with 3 years of experience in the field. Throughout my career, I have worked on a diverse range of projects that have allowed me to gain hands-on experience in web development and software engineering. My primary focus is on delivering high-quality software that not only meets but exceeds my clients' expectations. I am driven by a passion for crafting visually stunning and user-friendly websites and applications that are optimized for various devices. 
+
+<ul> 
+	<li>  
+		<strong>SDNO (Sehat Diet & Nutrition Organization)</strong>
+			<br> 
+			Position: Head of Technical Team
+			<br>
+			Dates: July 2021 - Present 
+	</li>  
+	<li>
+	  <strong>Bytewise</strong>
+		  <br> 
+		  Position: Django Developer
+		  <br>
+		  Dates: March 2023 - July 2023
+	</li>  
+	<li>
+	   <strong>Bytewise</strong>
+		   <br> 
+		   Position: MERN Stack Developer
+		   <br> 
+		   Dates: Aug 2022 - Nov 2022
+	</li>  
 </ul>
-
-
-## 💼 Muqeeti's Work Experience
-
-I am a seasoned Web Developer with 3 years of experience in the field. Throughout my career, I have worked on a diverse range of projects that have allowed me to gain hands-on experience in web development and software engineering.
-
-My primary focus is on delivering high-quality software that not only meets but exceeds my clients' expectations. I am driven by a passion for crafting visually stunning and user-friendly websites and applications that are optimized for various devices. 💻
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" width="30"> Top Languages
 
@@ -134,7 +136,7 @@ This is a visual representation of my GitHub contributions over the past year, s
 [![Muqeeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqeetiqbal2&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/muqeetiqbal2)
 
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f441.png" width="30"> Profile Views
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="25" height="25" /> Profile Views
 
 ![](https://komarev.com/ghpvc/?username=muqeetiqbal2&color=green)
 
@@ -154,7 +156,7 @@ This is my GitHub contribution streak, showing the number of consecutive days I'
 - Cooking
 
 
-## 💼 Work With Muqeeti
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Work With Muqeeti
 
 I offer web development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensure that your project is executed efficiently and effectively.
 
