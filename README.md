@@ -1,13 +1,13 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1;">
-   <h1 align="left" style="justify-content: center; display: flex; align-items: center;">
+   <h1>
       <img src="https://img.icons8.com/color/48/000000/code.png"/>
       <strong>Muqeeti's Profile</strong>
     </h1>
     <div>
     <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
     </div>
- <h2>It's Me Muqeeti! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="25" height="25"/></h2>
+ <h2>It's Me Muqeeti! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35" height="35"/></h2>
     <div>
       <p>As a web developer and a software engineering student at CUST, I have extensive experience with Django and React. My passion lies in building dynamic and responsive web applications that offer seamless user experiences. I have a strong command of various programming languages, including JavaScript, HTML, and CSS. Additionally, I am proficient in utilizing various frameworks, such as React and Node.js, to develop scalable applications. My commitment to staying up-to-date with emerging technologies helps me continuously enhance my skills and create innovative solutions. In my free time, I enjoy attending hackathons, contributing to open-source projects, and working on personal coding projects to challenge myself.</p>
     </div>
@@ -40,7 +40,7 @@
 </p>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Potted%20Plant.png" alt="Potted Plant" width="25" height="25" /> What Muqeeti Currently Learning
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Potted%20Plant.png" alt="Potted Plant" width="35" height="35" /> What Muqeeti Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -54,37 +54,37 @@
 I am a seasoned Web Developer with 3 years of experience in the field. Throughout my career, I have worked on a diverse range of projects that have allowed me to gain hands-on experience in web development and software engineering. My primary focus is on delivering high-quality software that not only meets but exceeds my clients' expectations. I am driven by a passion for crafting visually stunning and user-friendly websites and applications that are optimized for various devices. 
 
 <ul> 
-	<li>  
-		<strong>SDNO (Sehat Diet & Nutrition Organization)</strong>
-			<br> 
-			Position: Head of Technical Team
-			<br>
-			Dates: July 2021 - Present 
-	</li>  
-	<li>
-	  <strong>Bytewise</strong>
-		  <br> 
-		  Position: Django Developer
-		  <br>
-		  Dates: March 2023 - July 2023
-	</li>  
-	<li>
-	   <strong>Bytewise</strong>
-		   <br> 
-		   Position: MERN Stack Developer
-		   <br> 
-		   Dates: Aug 2022 - Nov 2022
-	</li>  
+<li>  
+<strong>SDNO (Sehat Diet & Nutrition Organization)</strong>
+<br> 
+Position: Head of Technical Team
+<br>
+Dates: July 2021 - Present 
+</li>  
+<li>
+<strong>Bytewise</strong>
+<br> 
+Position: Django Developer
+<br>
+Dates: March 2023 - July 2023
+</li>  
+<li>
+<strong>Bytewise</strong>
+<br> 
+Position: MERN Stack Developer
+<br> 
+Dates: Aug 2022 - Nov 2022
+</li>  
 </ul>
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" width="30"> Top Languages
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" width="35"> Top Languages
 
 [![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muqeetiqbal2&layout=compact&theme=radical)](https://github.com/muqeetiqbal2)
 
 This chart shows the top programming languages I've used on GitHub, based on the number of lines of code. Click on the chart to see more details.
 
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e2.png" width="30"> GitHub Contributions
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e2.png" width="35"> GitHub Contributions
 ![Your Name's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=muqeetiqbal2&theme=dracula)
 
 This is a visual representation of my GitHub contributions over the past year, showing the number of commits, pull requests, issues, and more.
@@ -95,14 +95,14 @@ This is a visual representation of my GitHub contributions over the past year, s
 [![Muqeeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqeetiqbal2&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/muqeetiqbal2)
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="25" height="25" /> Profile Views
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="35" height="35" /> Profile Views
 
 ![](https://komarev.com/ghpvc/?username=muqeetiqbal2&color=green)
 
 This is the number of visitors to my profile README.md file.
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="25" height="25" /> GitHub Streak
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="35" height="35" /> GitHub Streak
 ![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muqeetiqbal2&theme=radical)
 
 This is my GitHub contribution streak, showing the number of consecutive days I've made at least one commit.
@@ -115,14 +115,15 @@ This is my GitHub contribution streak, showing the number of consecutive days I'
 - Cooking
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Work With Muqeeti
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /> Work With Muqeeti
 
 I offer web development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensure that your project is executed efficiently and effectively.
 
 If you're interested in working with me, please don't hesitate to contact me via email at muqeetiqbal01@gmail.com or connect with me on LinkedIn [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
 
 
-## 📫 Get In Touch With Muqeeti
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="35" height="35" /> Get In Touch With Muqeeti
+##  Get In Touch With Muqeeti
 
 <div style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/muqeet-iqbal-aa62b724a/" style="margin: 10px;">
