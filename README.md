@@ -1,21 +1,11 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1;">
-   <h1>
-      <img src="https://img.icons8.com/color/48/000000/code.png"/>
-      <strong>Muqeeti's Profile</strong>
-    </h1>
-    <div>
-    <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
-    </div>
- <h2>It's Me Muqeeti! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35" height="35"/></h2>
-    <div>
-      <p>As a web developer and a software engineering student at CUST, I have extensive experience with Django and React. My passion lies in building dynamic and responsive web applications that offer seamless user experiences. I have a strong command of various programming languages, including JavaScript, HTML, and CSS. Additionally, I am proficient in utilizing various frameworks, such as React and Node.js, to develop scalable applications. My commitment to staying up-to-date with emerging technologies helps me continuously enhance my skills and create innovative solutions. In my free time, I enjoy attending hackathons, contributing to open-source projects, and working on personal coding projects to challenge myself.</p>
-    </div>
-  </div>
-  <div style="align:'center';">
+# <img src="https://img.icons8.com/color/48/000000/code.png"/> Muqeeti's Profile    
+<img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Boy.png" alt="Boy" width="35" height="35" /> It's Me Muqeeti! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35" height="35"/>
+
+As a web developer and a software engineering student at CUST, I have extensive experience with Django and React. My passion lies in building dynamic and responsive web applications that offer seamless user experiences. I have a strong command of various programming languages, including JavaScript, HTML, and CSS. Additionally, I am proficient in utilizing various frameworks, such as React and Node.js, to develop scalable applications. My commitment to staying up-to-date with emerging technologies helps me continuously enhance my skills and create innovative solutions. In my free time, I enjoy attending hackathons, contributing to open-source projects, and working on personal coding projects to challenge myself.</p>
+
 <img style="width:100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
-</div>
-</div>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Technologies & Tools Used By Muqeeti
@@ -34,13 +24,15 @@
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/-pgAdmin-336791?style=for-the-badge&logo=pgAdmin&logoColor=white"/>
   <img src="https://img.shields.io/badge/-XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-phpMyAdmin-4479A1?style=for-the-badge&logo=php&logoColor=white"/
+  <img src="https://img.shields.io/badge/-phpMyAdmin-4479A1?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/> 
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/-Shell%20Scripting-4EAA25?style=for-the-badge&logo=bash&logoColor=white" />
 </p>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Potted%20Plant.png" alt="Potted Plant" width="35" height="35" /> What Muqeeti Currently Learning
+
+## 🌱 What Muqeeti Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
@@ -52,30 +44,19 @@
 ## 💼 Work and Professional Experience
 
 I am a seasoned Web Developer with 3 years of experience in the field. Throughout my career, I have worked on a diverse range of projects that have allowed me to gain hands-on experience in web development and software engineering. My primary focus is on delivering high-quality software that not only meets but exceeds my clients' expectations. I am driven by a passion for crafting visually stunning and user-friendly websites and applications that are optimized for various devices. 
+ 
+### SDNO (Sehat Diet & Nutrition Organization)
+- Position: Head of Technical Team
+- Dates: July 2021 - Present 
 
-<ul> 
-<li>  
-<strong>SDNO (Sehat Diet & Nutrition Organization)</strong>
-<br> 
-Position: Head of Technical Team
-<br>
-Dates: July 2021 - Present 
-</li>  
-<li>
-<strong>Bytewise</strong>
-<br> 
-Position: Django Developer
-<br>
-Dates: March 2023 - July 2023
-</li>  
-<li>
-<strong>Bytewise</strong>
-<br> 
-Position: MERN Stack Developer
-<br> 
-Dates: Aug 2022 - Nov 2022
-</li>  
-</ul>
+### Bytewise
+- Position: Django Developer
+- Dates: March 2023 - July 2023
+
+### Bytewise
+- Position: MERN Stack Developer
+- Dates: Aug 2022 - Nov 2022
+
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" width="35"> Top Languages
 
@@ -123,7 +104,6 @@ If you're interested in working with me, please don't hesitate to contact me via
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="35" height="35" /> Get In Touch With Muqeeti
-##  Get In Touch With Muqeeti
 
 <div style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/muqeet-iqbal-aa62b724a/" style="margin: 10px;">
