@@ -26,8 +26,7 @@ As a web developer and a software engineering student at CUST, I have extensive 
   <img src="https://img.shields.io/badge/-XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-phpMyAdmin-4479A1?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/> 
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/-Shell%20Scripting-4EAA25?style=for-the-badge&logo=bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 
