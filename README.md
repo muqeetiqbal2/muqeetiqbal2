@@ -105,14 +105,14 @@ If you're interested in working with me, please don't hesitate to contact me via
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="35" height="35" /> Get In Touch With Muqeeti
 
-<div style="display: flex; justify-content: center;">
+<div >
   <a href="https://www.linkedin.com/in/muqeet-iqbal-aa62b724a/" style="margin: 10px;">
-    <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn icon">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png">
   </a>
   <a href="mailto:muqeetiqbal01@gmail.com" style="margin: 10px;">
-    <img src="https://img.icons8.com/ios-filled/50/0077b5/email.png" alt="Email icon">
+    <img src="https://img.icons8.com/color/48/000000/email.png">
   </a>
   <a href="https://github.com/muqeetiqbal2" style="margin: 10px;">
-    <img src="https://img.icons8.com/ios-filled/50/0077b5/github.png" alt="GitHub icon">
+    <img src="https://img.icons8.com/color/48/000000/github.png">
   </a>
 </div>
