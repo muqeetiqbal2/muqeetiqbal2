@@ -29,7 +29,7 @@ As a web developer and a software engineering student at CUST, I have extensive 
   <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/> 
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
-
+<img width="1050" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 
 
 ## 🌱 What Muqeeti Currently Learning
@@ -39,7 +39,7 @@ As a web developer and a software engineering student at CUST, I have extensive 
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/-Shell%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
-
+<img width="1050" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 
 ## 💼 Work and Professional Experience
 
@@ -56,6 +56,7 @@ I am a seasoned Web Developer with 3 years of experience in the field. Throughou
 ### Bytewise
 - Position: MERN Stack Developer
 - Dates: Aug 2022 - Nov 2022
+<img width="1050" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> Top Languages
@@ -63,17 +64,20 @@ I am a seasoned Web Developer with 3 years of experience in the field. Throughou
 [![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muqeetiqbal2&layout=compact&theme=radical)](https://github.com/muqeetiqbal2)
 
 This chart shows the top programming languages I've used on GitHub, based on the number of lines of code. Click on the chart to see more details.
+<img width="1050" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e2.png" width="35"> GitHub Contributions
 ![Your Name's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=muqeetiqbal2&theme=dracula)
 
 This is a visual representation of my GitHub contributions over the past year, showing the number of commits, pull requests, issues, and more.
+<img width="1050" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 
 
 ## 📈 Muqeeti's GitHub Stats
 
 [![Muqeeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muqeetiqbal2&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)](https://github.com/muqeetiqbal2)
+<img width="1050" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Eye%20in%20Speech%20Bubble.png" alt="Eye in Speech Bubble" width="35" height="35" /> Profile Views
@@ -81,12 +85,14 @@ This is a visual representation of my GitHub contributions over the past year, s
 ![](https://komarev.com/ghpvc/?username=muqeetiqbal2&color=green)
 
 This is the number of visitors to my profile README.md file.
+<img width="1050" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="35" height="35" /> GitHub Streak
 ![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muqeetiqbal2&theme=radical)
 
 This is my GitHub contribution streak, showing the number of consecutive days I've made at least one commit.
+<img width="1050" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 
 
 ## ⚡ Muqeeti's Interests
@@ -94,6 +100,7 @@ This is my GitHub contribution streak, showing the number of consecutive days I'
 - Writing (Stories & poems)
 - Traveling
 - Cooking
+<img width="1050" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" /> Work With Muqeeti
@@ -101,6 +108,7 @@ This is my GitHub contribution streak, showing the number of consecutive days I'
 I offer web development services that cater to your specific business needs. As a self-taught web developer, I specialize in creating visually stunning and responsive websites and web applications that provide an exceptional user experience. My expertise in various technologies and tools ensure that your project is executed efficiently and effectively.
 
 If you're interested in working with me, please don't hesitate to contact me via email at muqeetiqbal01@gmail.com or connect with me on LinkedIn [linkedin.com/in/muqeet-iqbal](https://www.linkedin.com/in/muqeet-iqbal-aa62b724a). I look forward to hearing from you and discussing how I can assist you in achieving your web development goals.
+<img width="1050" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="35" height="35" /> Get In Touch With Muqeeti
@@ -116,3 +124,4 @@ If you're interested in working with me, please don't hesitate to contact me via
     <img src="https://img.icons8.com/color/48/000000/github.png">
   </a>
 </div>
+<img width="1050" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
