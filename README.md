@@ -5,8 +5,9 @@
 
 As a web developer and a software engineering student at CUST, I have extensive experience with Django and React. My passion lies in building dynamic and responsive web applications that offer seamless user experiences. I have a strong command of various programming languages, including JavaScript, HTML, and CSS. Additionally, I am proficient in utilizing various frameworks, such as React and Node.js, to develop scalable applications. My commitment to staying up-to-date with emerging technologies helps me continuously enhance my skills and create innovative solutions. In my free time, I enjoy attending hackathons, contributing to open-source projects, and working on personal coding projects to challenge myself.</p>
 
-<img style="width:100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
+<img width="1050" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Technologies & Tools Used By Muqeeti
 <p align="center">
@@ -57,7 +58,7 @@ I am a seasoned Web Developer with 3 years of experience in the field. Throughou
 - Dates: Aug 2022 - Nov 2022
 
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" width="35"> Top Languages
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> Top Languages
 
 [![Your Name's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muqeetiqbal2&layout=compact&theme=radical)](https://github.com/muqeetiqbal2)
 
