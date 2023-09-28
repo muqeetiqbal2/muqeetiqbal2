@@ -83,7 +83,7 @@ This is the number of visitors to my profile README.md file.
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bird.png" alt="Bird" width="35" height="35" /> GitHub Streak
-![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muqeetiqbal2&theme=radical)
+![Muqeeti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muqeetiqbal2&theme=radical)
 
 This is my GitHub contribution streak, showing the number of consecutive days I've made at least one commit.
 
